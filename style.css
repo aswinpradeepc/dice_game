@@ -1,0 +1,45 @@
+/*COLOR CODES*/
+/*firebrick red*/
+/*#F7D060 yellow*/
+/*#F3E99F light yellow*/
+
+
+body {
+    background-color: #F3E99F;
+    text-align: center;
+}
+
+.main_heading {
+    font-size: 4rem;
+    color: firebrick;
+}
+
+.sub_heading {
+    font-family: 'Aboreto', cursive;
+    font-size: 1rem;
+    display: flex;
+    font-weight: normal;
+    justify-content: center;
+    gap: 14rem;
+}
+
+.banner {
+    width: 40rem;
+    font-size: 5rem;
+    margin: 0 auto 0 auto;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+}
+
+.emoji_hand {
+    width: 5rem;
+    height: 5rem;
+}
+
+footer{
+    margin-top:10rem;
+}
