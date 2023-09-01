@@ -40,6 +40,20 @@ body {
     height: 5rem;
 }
 
+#refreshButton{
+    font-family: 'Aboreto', cursive;
+    width: 8rem;
+    height: 3rem;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 10%;
+    color: firebrick;
+    background-color: #F7D060;
+    border: none;
+    cursor: pointer;
+    margin-top: 3rem;
+}
+
 footer{
     margin-top:10rem;
 }
