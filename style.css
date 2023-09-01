@@ -40,7 +40,7 @@ body {
     height: 5rem;
 }
 
-#refreshButton{
+.refresh{
     font-family: 'Aboreto', cursive;
     width: 8rem;
     height: 3rem;
