@@ -12,3 +12,8 @@ if (d1 > d2) {
 } else {
     document.querySelector("h2.banner").textContent = "DRAW";
 }
+
+const refreshButton = document.getElementById("refreshButton");
+refreshButton.addEventListener("click", function () {
+    location.reload();
+});
